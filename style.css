@@ -1,0 +1,70 @@
+.heading {
+    width: 100%;
+    text-align: center;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #404141;
+    bottom: 0;
+    width: 100%;
+    background-color: #ff8e8e;
+    line-height: 2;
+    text-align: center;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.header {
+    background-color: #ff8e8e;
+    width: 100%;
+    margin-top: 0px;
+    border-top: 0%;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    line-height: 2;
+}
+
+.big_image {
+    width: 100%;
+}
+
+#start,
+#status {
+    font-size: 22px;
+}
+
+#canvas {
+    align-items: center;
+    width: 100%;
+}
+
+body {
+    background-size: cover;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.instruction_image {
+    display: inline-block;
+    width: 45%;
+}
+
+video {
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+
+}
